@@ -1,7 +1,5 @@
 # 🌍 AI Trip Planner
 
-![AI Trip Planner Banner](assets/banner.png)
-
 <div align="center">
 
 **Plan smarter, travel farther.**  
