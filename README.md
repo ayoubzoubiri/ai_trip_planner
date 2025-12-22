@@ -81,7 +81,7 @@ Badges:
 
 
 ## Backend (Laravel) — Important models & endpoints
-   link = https://github.com/ayoubzoubiri/tpf
+-   https://github.com/ayoubzoubiri/tpf
 -   Models: `User`, `Trip`, `DayPlan`, `Activity`, `BlogPost`
 -   Key API endpoints (examples):
     -   `POST /api/itinerary/generate` — generate itinerary via Gemini
@@ -90,7 +90,7 @@ Badges:
     -   `CRUD /api/blog` — manage blog posts
 
 ## Frontend (React) — important notes
-    link =  https://github.com/ayoubzoubiri/tpb
+-   https://github.com/ayoubzoubiri/tpb
 -   Router: React Router
 -   State: Redux Toolkit
 -   Styling: TailwindCSS
