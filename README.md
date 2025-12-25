@@ -6,8 +6,8 @@
 *Toplago.com — The next-gen AI-powered itinerary generator.*
 
 [![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange?style=for-the-badge)](https://github.com/ayoubzoubiri)
-[![Frontend](https://img.shields.io/badge/Frontend-React_18-blue?style=for-the-badge&logo=react)](https://github.com/ayoubzoubiri/tpf)
-[![Backend](https://img.shields.io/badge/Backend-Laravel_10-red?style=for-the-badge&logo=laravel)](https://github.com/ayoubzoubiri/tpb)
+[![Frontend link](https://img.shields.io/badge/Frontend-React_18-blue?style=for-the-badge&logo=react)](https://github.com/ayoubzoubiri/tpf)
+[![Backend link](https://img.shields.io/badge/Backend-Laravel_10-red?style=for-the-badge&logo=laravel)](https://github.com/ayoubzoubiri/tpb)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 ## 🎨 Diagrammes & Maquettes
 
--   **Diagrams:** [Eraser Workspace 1](https://app.eraser.io/workspace/EFYrU8xK0X5Y02jjY4IK?origin=share), [Eraser Workspace 2](https://app.eraser.io/workspace/0n7w5Tk8eHtoPGVjJhmi?origin=share)
+-   **Diagrams:** [links](https://lucid.app/lucidchart/3d3d891f-0f23-4058-9c76-7317384497f3/edit?viewport_loc=-378%2C366%2C2577%2C986%2C0_0&invitationId=inv_443ee6c0-76f8-4d47-916c-36f69aa6c68b),
 -   **Jira Board:** [Planning](https://ayz.atlassian.net/jira/software/projects/TPLG/boards/168/backlog?atlOrigin=eyJpIjoiMzE3Yzk0ODBlNDViNDc4NmFjZmE3YTM5NGQ5NGVkYTgiLCJwIjoiaiJ9)
 
 ---
