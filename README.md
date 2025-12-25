@@ -6,8 +6,8 @@
 *Toplago.com — The next-gen AI-powered itinerary generator.*
 
 [![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange?style=for-the-badge)](https://github.com/ayoubzoubiri)
-[![Frontend link](https://img.shields.io/badge/Frontend-React_18-blue?style=for-the-badge&logo=react)](https://github.com/ayoubzoubiri/tpf)
-[![Backend link](https://img.shields.io/badge/Backend-Laravel_10-red?style=for-the-badge&logo=laravel)](https://github.com/ayoubzoubiri/tpb)
+[![Frontend-link](https://img.shields.io/badge/Frontend-React_18-blue?style=for-the-badge&logo=react)](https://github.com/ayoubzoubiri/tpf)
+[![Backend-link](https://img.shields.io/badge/Backend-Laravel_10-red?style=for-the-badge&logo=laravel)](https://github.com/ayoubzoubiri/tpb)
 
 </div>
 
